@@ -18,9 +18,9 @@ I'm a Computer Science student passionate about solving problems and creating so
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/pedro-proen%C3%A7a-223b22271/
-- Instagram: https://www.instagram.com/pedro.hepp_?igsh=bGtoeDFxMjc0OGYw
-- Email: pedro_mvpq@hotmail.com
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-proen%C3%A7a-223b22271/)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.hepp_?igsh=bGtoeDFxMjc0OGYw)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro_mvpq@hotmail.com)
 
 ## GitHub Stats
 
