@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Pedro Proença! 👋
 
-<!--
-**PedroHepp/PedroHepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about solving problems and creating solutions with code. Currently, I'm focused on learning and practicing software development, especially in Java.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student at University of Rio de Janeiro - UERJ.
+- 💻 programming and hardware enthusiast.
+- 🌱 Constantly learning and seeking opportunities to enhance my skills.
+
+## Skills and Technologies
+
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/pedro-proen%C3%A7a-223b22271/
+- Instagram: https://www.instagram.com/pedro.hepp_?igsh=bGtoeDFxMjc0OGYw
+- Email: pedro_mvpq@hotmail.com
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHepp&show_icons=true&theme=radical)](https://github.com/PedroHepp)
