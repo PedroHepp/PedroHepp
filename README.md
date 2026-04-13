@@ -41,10 +41,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="center">
   <h3>* Status do Github *</h3>
   <br>
-  <a href="https://github.com/PedroHepp">
-    <img height="180em" src="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics.svg"/>
-    <img height="180em" src="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics-languages.svg"/>
-  </a>
+
+| | |
+|---|---|
+| ![GitHub Stats](https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics.svg) | ![Most Used Languages](https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics-languages.svg) |
+
 </div>
 
 #
