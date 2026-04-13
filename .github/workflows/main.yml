@@ -43,7 +43,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: PedroHepp
-          filename: output/metrics.svg
+          filename: metrics.svg
           committer_branch: output
           base: header, repositories
           plugin_languages: yes
