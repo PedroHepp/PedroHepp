@@ -62,6 +62,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 6
-          plugin_languages_ignored: html, scss, less, css, jupyter notebook
+          plugin_languages_ignored: html, scss, less, css
           config_timezone: America/Sao_Paulo
           config_padding: 6%
