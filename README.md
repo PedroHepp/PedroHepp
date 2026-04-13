@@ -7,7 +7,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="https://37.media.tumblr.com/3166729c74d63823a194d10f00dafd2a/tumblr_mklh92lxiV1ro7l7uo1_500.gif">
+<img align="right" alt="" height="190px" src="https://64.media.tumblr.com/3166729c74d63823a194d10f00dafd2a/tumblr_mklh92lxiV1ro7l7uo1_500.gif">
 
 <h3 align="left">Meus Contatos!</h3>
 
@@ -19,21 +19,21 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Minhas Stacks ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="anaconda logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="25" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="25" alt="rstudio logo" />
   <img width="8" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="25" alt="c logo"  />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="25" alt="powerbi logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo" />
 </div>
 
 #
@@ -41,13 +41,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3>* Status do Github *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHepp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="GitHub stats"">
-
-  <a href="https://github.com/PedroHepp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHepp&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=0d1117&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages"">
-  </a>
+  <img src="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics.svg" alt="GitHub Metrics">
 </div>
-
 
 #
 
@@ -55,5 +50,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHepp/PedroHepp/blob/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
