@@ -39,18 +39,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div align="center">
-  <h3>* Status do Github *</h3>
-  <br>
-
-| | |
-|---|---|
-| ![GitHub Stats](https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics.svg) | ![Most Used Languages](https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/metrics-languages.svg) |
-
-</div>
-
-#
-
-<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHepp/PedroHepp/output/github-contribution-grid-snake-dark.svg">
